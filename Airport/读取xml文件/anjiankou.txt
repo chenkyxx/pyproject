@@ -1,0 +1,2 @@
+time:20181031181351 appear error---HTTPConnectionPool(host='192.168.10.188', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000233DE942C18>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',))
+time:20181031191917 appear error---('Connection aborted.', TimeoutError(10060, '由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。', None, 10060, None))

@@ -1,0 +1,1029 @@
+time:20181024235959 appear error---
+time:20181025000000 appear error---
+time:20181025000001 appear error---
+time:20181025000001 appear error---
+time:20181025000001 appear error---
+time:20181025000004 appear error---
+time:20181025000004 appear error---
+time:20181025000004 appear error---
+time:20181025000005 appear error---
+time:20181025140517 appear error---'result'
+time:20181025140521 appear error---'result'
+time:20181025140527 appear error---'result'
+time:20181025140528 appear error---'result'
+time:20181025140602 appear error---'result'
+time:20181025140602 appear error---'result'
+time:20181025140639 appear error---'result'
+time:20181025140641 appear error---'result'
+time:20181025140643 appear error---'result'
+time:20181025140644 appear error---'result'
+time:20181025140719 appear error---'result'
+time:20181025140720 appear error---'result'
+time:20181025140721 appear error---'result'
+time:20181025140722 appear error---'result'
+time:20181025140722 appear error---'result'
+time:20181025140723 appear error---'result'
+time:20181025140759 appear error---'result'
+time:20181025140800 appear error---'result'
+time:20181025140800 appear error---'result'
+time:20181025140801 appear error---'result'
+time:20181025140802 appear error---'result'
+time:20181025140802 appear error---'result'
+time:20181025140802 appear error---'result'
+time:20181025140803 appear error---'result'
+time:20181025140804 appear error---'result'
+time:20181025140900 appear error---'result'
+time:20181025140900 appear error---'result'
+time:20181025141955 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051993C8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025141956 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051C1438>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025141956 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051B8DD8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025141956 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051B8B70>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025141957 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003990A90>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025141958 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039B34A8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025141958 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039C4978>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025141958 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039DA6A0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025141958 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039E3A90>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025141959 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039F0828>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025141959 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A06F98>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142001 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A520F0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142001 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039F0C50>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142002 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039B3518>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142002 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003996FD0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142002 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003990F28>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142002 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051D1CC0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142003 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051D5198>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142005 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005070358>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142005 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A526D8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142007 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051FC6A0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142007 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A87CF8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142007 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A9BC88>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142007 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003AA67B8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142008 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051B4748>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142009 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039C4240>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142009 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039C4BA8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142009 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051C1898>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142010 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051FC320>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142010 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000399F748>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142010 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003990898>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142012 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051D9E10>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142012 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003985630>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142013 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A4A748>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142013 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003AD2B00>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142013 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003ADF400>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142013 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003ADFEF0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142014 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003AE86A0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142016 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039CAC88>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142017 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039903C8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142018 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A4A978>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142018 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005070E10>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142019 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051D50F0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142019 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039B3D68>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142020 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051BE7F0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142020 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051A0358>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142021 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A663C8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142021 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A87278>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142021 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A530F0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142022 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A53C88>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142022 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005429828>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142025 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051AC7F0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142025 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039F0828>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142025 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039F0E80>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142025 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051EC2E8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142026 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051EC898>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142026 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051A9EF0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142026 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051A9E48>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142028 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A06240>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142028 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000543F4A8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142029 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A52048>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142030 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005465048>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142030 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005465CF8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142030 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000546F828>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142031 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005073198>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142032 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039FAA20>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142032 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039FA048>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142033 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A0D8D0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142033 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051A0978>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142033 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039CA208>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142033 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005028048>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142037 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000004F89278>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142037 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003AFBAC8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142037 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005191518>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142037 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003983F60>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142037 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051D94E0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142037 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051D9B00>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142037 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039DA550>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142039 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039CA6D8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142040 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A0D668>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142044 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A4ABA8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142044 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000545CC88>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142044 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051D17B8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142044 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005031D68>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142045 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003990198>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142045 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039FADA0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142045 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005031278>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142046 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039F0940>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142046 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000545C550>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142046 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039FAD68>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142046 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A06BE0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142048 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000544EBA8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142048 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051C8E48>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142048 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051D9DA0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142048 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003983898>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142048 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A1EE48>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142048 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051BDE48>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142048 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000004F893C8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142051 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003996898>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142051 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003AFBEB8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142056 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A4A630>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142056 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005436390>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142056 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005436080>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142056 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051B79E8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142057 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051B7400>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142057 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051EC6A0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142057 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039B81D0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142057 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039B8860>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142057 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051B29E8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142057 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000050709E8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142057 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051FCC88>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142059 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000545CA90>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142059 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003990F98>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142059 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051D1B70>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142100 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039CA3C8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142100 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039B89B0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142100 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000054362E8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142100 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003ABCBA8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142102 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005191400>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142103 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003996550>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142107 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051CF7B8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142108 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000519D400>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142108 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039CAB70>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142108 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051D1FD0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142108 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051D9978>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142108 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000519E7F0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142108 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000004F89D30>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142108 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003B035C0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142109 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A66828>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142109 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051E9780>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142109 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A4AC88>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142111 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051AA048>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142111 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000500A400>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142111 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051971D0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142111 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005090710>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142111 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A53320>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142112 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000056D7080>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142112 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000056D7BA8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142114 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000500AB70>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142114 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051EC278>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142118 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000509D9B0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142119 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000544E2E8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142119 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000543FD30>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142119 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039DAE48>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142119 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003996550>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142120 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051B49E8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142120 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051B89B0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142120 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051B87F0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142120 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000056F7400>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142120 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003AB3BE0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142120 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A1E940>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142122 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051915C0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142122 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A061D0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142122 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039839B0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142122 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051B7208>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142122 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051ECD68>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142123 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A87278>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142123 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003B34C50>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142125 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A53048>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142126 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000571CAC8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142130 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005197F60>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142131 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000056D71D0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142131 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000056CE4A8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142131 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051EC908>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142131 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000057124E0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142131 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000544E630>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142131 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051BD7F0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142131 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000054365F8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142131 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A06710>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142131 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005191978>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142132 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051A9F98>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142133 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051D9550>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142134 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A0DD68>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142134 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003B17470>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142134 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000056FE358>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142134 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000571FF60>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142135 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039F0390>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142135 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051C8080>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142136 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003AFB048>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142137 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051B7898>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142141 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005E0D080>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142142 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005E0D358>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142142 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005DEC080>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142143 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005E02630>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142143 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005DF8438>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142143 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005DEC898>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142143 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005DE63C8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142143 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005E21B38>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142143 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005DC6DD8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142143 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000057455C0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142143 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005731E48>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142145 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A87908>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142145 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005197588>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142145 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000057282E8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142145 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051AA160>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142145 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051EC400>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142146 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051C8EB8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142146 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000571F5F8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142148 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005031860>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142149 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005E21BA8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142157 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000545C978>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142157 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051ACF98>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142157 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000050961D0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142157 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051F3940>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142157 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051957B8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142157 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005191DA0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142157 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051F3048>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142157 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051C1668>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142157 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000543FC18>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142157 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000508C400>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142158 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005E3A5C0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142158 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000519E630>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142200 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051BDA58>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142200 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005E30550>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142200 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005DB25F8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142200 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A1ECF8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142200 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003983128>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142200 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005DAAC18>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142200 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005E21E80>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142201 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039DA240>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142208 appear error---'result'
+time:20181025142208 appear error---'result'
+time:20181025142208 appear error---'result'
+time:20181025142208 appear error---'result'
+time:20181025142208 appear error---'result'
+time:20181025142208 appear error---'result'
+time:20181025142208 appear error---'result'
+time:20181025142208 appear error---'result'
+time:20181025142208 appear error---'result'
+time:20181025142208 appear error---'result'
+time:20181025142211 appear error---'result'
+time:20181025142211 appear error---'result'
+time:20181025142211 appear error---'result'
+time:20181025142211 appear error---'result'
+time:20181025142211 appear error---'result'
+time:20181025142211 appear error---'result'
+time:20181025142211 appear error---'result'
+time:20181025142211 appear error---'result'
+time:20181025142211 appear error---'result'
+time:20181025142211 appear error---'result'
+time:20181025142215 appear error---'result'
+time:20181025142215 appear error---'result'
+time:20181025142215 appear error---'result'
+time:20181025142215 appear error---'result'
+time:20181025142215 appear error---'result'
+time:20181025142216 appear error---'result'
+time:20181025142216 appear error---'result'
+time:20181025142216 appear error---'result'
+time:20181025142216 appear error---'result'
+time:20181025142216 appear error---'result'
+time:20181025142218 appear error---'result'
+time:20181025142218 appear error---'result'
+time:20181025142218 appear error---'result'
+time:20181025142218 appear error---'result'
+time:20181025142219 appear error---'result'
+time:20181025142219 appear error---'result'
+time:20181025142219 appear error---'result'
+time:20181025142219 appear error---'result'
+time:20181025142219 appear error---'result'
+time:20181025142219 appear error---'result'
+time:20181025142223 appear error---'result'
+time:20181025142223 appear error---'result'
+time:20181025142223 appear error---'result'
+time:20181025142223 appear error---'result'
+time:20181025142223 appear error---'result'
+time:20181025142223 appear error---'result'
+time:20181025142223 appear error---'result'
+time:20181025142223 appear error---'result'
+time:20181025142223 appear error---'result'
+time:20181025142223 appear error---'result'
+time:20181025142226 appear error---'result'
+time:20181025142226 appear error---'result'
+time:20181025142226 appear error---'result'
+time:20181025142226 appear error---'result'
+time:20181025142226 appear error---'result'
+time:20181025142226 appear error---'result'
+time:20181025142226 appear error---'result'
+time:20181025142226 appear error---'result'
+time:20181025142226 appear error---'result'
+time:20181025142226 appear error---'result'
+time:20181025142230 appear error---'result'
+time:20181025142230 appear error---'result'
+time:20181025142230 appear error---'result'
+time:20181025142230 appear error---'result'
+time:20181025142230 appear error---'result'
+time:20181025142230 appear error---'result'
+time:20181025142230 appear error---'result'
+time:20181025142230 appear error---'result'
+time:20181025142231 appear error---'result'
+time:20181025142231 appear error---'result'
+time:20181025142233 appear error---'result'
+time:20181025142233 appear error---'result'
+time:20181025142233 appear error---'result'
+time:20181025142233 appear error---'result'
+time:20181025142234 appear error---'result'
+time:20181025142234 appear error---'result'
+time:20181025142234 appear error---'result'
+time:20181025142234 appear error---'result'
+time:20181025142234 appear error---'result'
+time:20181025142234 appear error---'result'
+time:20181025142238 appear error---'result'
+time:20181025142238 appear error---'result'
+time:20181025142238 appear error---'result'
+time:20181025142238 appear error---'result'
+time:20181025142238 appear error---'result'
+time:20181025142238 appear error---'result'
+time:20181025142238 appear error---'result'
+time:20181025142238 appear error---'result'
+time:20181025142238 appear error---'result'
+time:20181025142238 appear error---'result'
+time:20181025142241 appear error---'result'
+time:20181025142241 appear error---'result'
+time:20181025142241 appear error---'result'
+time:20181025142241 appear error---'result'
+time:20181025142241 appear error---'result'
+time:20181025142241 appear error---'result'
+time:20181025142241 appear error---'result'
+time:20181025142241 appear error---'result'
+time:20181025142241 appear error---'result'
+time:20181025142241 appear error---'result'
+time:20181025142245 appear error---'result'
+time:20181025142245 appear error---'result'
+time:20181025142245 appear error---'result'
+time:20181025142245 appear error---'result'
+time:20181025142245 appear error---'result'
+time:20181025142245 appear error---'result'
+time:20181025142245 appear error---'result'
+time:20181025142245 appear error---'result'
+time:20181025142246 appear error---'result'
+time:20181025142246 appear error---'result'
+time:20181025142248 appear error---'result'
+time:20181025142248 appear error---'result'
+time:20181025142248 appear error---'result'
+time:20181025142248 appear error---'result'
+time:20181025142248 appear error---'result'
+time:20181025142248 appear error---'result'
+time:20181025142248 appear error---'result'
+time:20181025142248 appear error---'result'
+time:20181025142249 appear error---'result'
+time:20181025142249 appear error---'result'
+time:20181025142252 appear error---'result'
+time:20181025142253 appear error---'result'
+time:20181025142253 appear error---'result'
+time:20181025142253 appear error---'result'
+time:20181025142253 appear error---'result'
+time:20181025142253 appear error---'result'
+time:20181025142253 appear error---'result'
+time:20181025142253 appear error---'result'
+time:20181025142253 appear error---'result'
+time:20181025142253 appear error---'result'
+time:20181025142256 appear error---'result'
+time:20181025142256 appear error---'result'
+time:20181025142256 appear error---'result'
+time:20181025142256 appear error---'result'
+time:20181025142256 appear error---'result'
+time:20181025142256 appear error---'result'
+time:20181025142256 appear error---'result'
+time:20181025142256 appear error---'result'
+time:20181025142256 appear error---'result'
+time:20181025142256 appear error---'result'
+time:20181025142300 appear error---'result'
+time:20181025142300 appear error---'result'
+time:20181025142300 appear error---'result'
+time:20181025142300 appear error---'result'
+time:20181025142300 appear error---'result'
+time:20181025142300 appear error---'result'
+time:20181025142300 appear error---'result'
+time:20181025142300 appear error---'result'
+time:20181025142300 appear error---'result'
+time:20181025142301 appear error---'result'
+time:20181025142303 appear error---'result'
+time:20181025142303 appear error---'result'
+time:20181025142303 appear error---'result'
+time:20181025142303 appear error---'result'
+time:20181025142303 appear error---'result'
+time:20181025142303 appear error---'result'
+time:20181025142303 appear error---'result'
+time:20181025142303 appear error---'result'
+time:20181025142303 appear error---'result'
+time:20181025142304 appear error---'result'
+time:20181025142307 appear error---'result'
+time:20181025142307 appear error---'result'
+time:20181025142308 appear error---'result'
+time:20181025142308 appear error---'result'
+time:20181025142308 appear error---'result'
+time:20181025142308 appear error---'result'
+time:20181025142308 appear error---'result'
+time:20181025142308 appear error---'result'
+time:20181025142308 appear error---'result'
+time:20181025142308 appear error---'result'
+time:20181025142310 appear error---'result'
+time:20181025142310 appear error---'result'
+time:20181025142310 appear error---'result'
+time:20181025142311 appear error---'result'
+time:20181025142311 appear error---'result'
+time:20181025142311 appear error---'result'
+time:20181025142311 appear error---'result'
+time:20181025142311 appear error---'result'
+time:20181025142311 appear error---'result'
+time:20181025142311 appear error---'result'
+time:20181025142315 appear error---'result'
+time:20181025142315 appear error---'result'
+time:20181025142315 appear error---'result'
+time:20181025142315 appear error---'result'
+time:20181025142315 appear error---'result'
+time:20181025142315 appear error---'result'
+time:20181025142315 appear error---'result'
+time:20181025142315 appear error---'result'
+time:20181025142315 appear error---'result'
+time:20181025142315 appear error---'result'
+time:20181025142318 appear error---'result'
+time:20181025142318 appear error---'result'
+time:20181025142318 appear error---'result'
+time:20181025142318 appear error---'result'
+time:20181025142318 appear error---'result'
+time:20181025142318 appear error---'result'
+time:20181025142318 appear error---'result'
+time:20181025142318 appear error---'result'
+time:20181025142318 appear error---'result'
+time:20181025142319 appear error---'result'
+time:20181025142322 appear error---'result'
+time:20181025142322 appear error---'result'
+time:20181025142323 appear error---'result'
+time:20181025142323 appear error---'result'
+time:20181025142323 appear error---'result'
+time:20181025142323 appear error---'result'
+time:20181025142323 appear error---'result'
+time:20181025142323 appear error---'result'
+time:20181025142323 appear error---'result'
+time:20181025142323 appear error---'result'
+time:20181025142325 appear error---'result'
+time:20181025142325 appear error---'result'
+time:20181025142325 appear error---'result'
+time:20181025142325 appear error---'result'
+time:20181025142326 appear error---'result'
+time:20181025142326 appear error---'result'
+time:20181025142326 appear error---'result'
+time:20181025142326 appear error---'result'
+time:20181025142326 appear error---'result'
+time:20181025142326 appear error---'result'
+time:20181025142330 appear error---'result'
+time:20181025142330 appear error---'result'
+time:20181025142330 appear error---'result'
+time:20181025142330 appear error---'result'
+time:20181025142330 appear error---'result'
+time:20181025142330 appear error---'result'
+time:20181025142330 appear error---'result'
+time:20181025142330 appear error---'result'
+time:20181025142330 appear error---'result'
+time:20181025142330 appear error---'result'
+time:20181025142333 appear error---'result'
+time:20181025142333 appear error---'result'
+time:20181025142333 appear error---'result'
+time:20181025142333 appear error---'result'
+time:20181025142333 appear error---'result'
+time:20181025142333 appear error---'result'
+time:20181025142333 appear error---'result'
+time:20181025142333 appear error---'result'
+time:20181025142333 appear error---'result'
+time:20181025142333 appear error---'result'
+time:20181025142337 appear error---'result'
+time:20181025142337 appear error---'result'
+time:20181025142337 appear error---'result'
+time:20181025142337 appear error---'result'
+time:20181025142337 appear error---'result'
+time:20181025142337 appear error---'result'
+time:20181025142337 appear error---'result'
+time:20181025142338 appear error---'result'
+time:20181025142338 appear error---'result'
+time:20181025142338 appear error---'result'
+time:20181025142340 appear error---'result'
+time:20181025142340 appear error---'result'
+time:20181025142340 appear error---'result'
+time:20181025142340 appear error---'result'
+time:20181025142340 appear error---'result'
+time:20181025142340 appear error---'result'
+time:20181025142341 appear error---'result'
+time:20181025142341 appear error---'result'
+time:20181025142341 appear error---'result'
+time:20181025142341 appear error---'result'
+time:20181025142345 appear error---'result'
+time:20181025142345 appear error---'result'
+time:20181025142345 appear error---'result'
+time:20181025142345 appear error---'result'
+time:20181025142345 appear error---'result'
+time:20181025142345 appear error---'result'
+time:20181025142345 appear error---'result'
+time:20181025142345 appear error---'result'
+time:20181025142345 appear error---'result'
+time:20181025142345 appear error---'result'
+time:20181025142347 appear error---'result'
+time:20181025142348 appear error---'result'
+time:20181025142348 appear error---'result'
+time:20181025142348 appear error---'result'
+time:20181025142348 appear error---'result'
+time:20181025142348 appear error---'result'
+time:20181025142348 appear error---'result'
+time:20181025142348 appear error---'result'
+time:20181025142348 appear error---'result'
+time:20181025142348 appear error---'result'
+time:20181025142352 appear error---'result'
+time:20181025142352 appear error---'result'
+time:20181025142352 appear error---'result'
+time:20181025142352 appear error---'result'
+time:20181025142352 appear error---'result'
+time:20181025142352 appear error---'result'
+time:20181025142352 appear error---'result'
+time:20181025142352 appear error---'result'
+time:20181025142353 appear error---'result'
+time:20181025142353 appear error---'result'
+time:20181025142355 appear error---'result'
+time:20181025142355 appear error---'result'
+time:20181025142355 appear error---'result'
+time:20181025142355 appear error---'result'
+time:20181025142355 appear error---'result'
+time:20181025142355 appear error---'result'
+time:20181025142355 appear error---'result'
+time:20181025142355 appear error---'result'
+time:20181025142356 appear error---'result'
+time:20181025142356 appear error---'result'
+time:20181025142400 appear error---'result'
+time:20181025142400 appear error---'result'
+time:20181025142400 appear error---'result'
+time:20181025142400 appear error---'result'
+time:20181025142400 appear error---'result'
+time:20181025142400 appear error---'result'
+time:20181025142400 appear error---'result'
+time:20181025142400 appear error---'result'
+time:20181025142400 appear error---'result'
+time:20181025142400 appear error---'result'
+time:20181025142403 appear error---'result'
+time:20181025142403 appear error---'result'
+time:20181025142403 appear error---'result'
+time:20181025142403 appear error---'result'
+time:20181025142403 appear error---'result'
+time:20181025142403 appear error---'result'
+time:20181025142403 appear error---'result'
+time:20181025142403 appear error---'result'
+time:20181025142403 appear error---'result'
+time:20181025142404 appear error---'result'
+time:20181025142407 appear error---'result'
+time:20181025142407 appear error---'result'
+time:20181025142407 appear error---'result'
+time:20181025142407 appear error---'result'
+time:20181025142407 appear error---'result'
+time:20181025142407 appear error---'result'
+time:20181025142407 appear error---'result'
+time:20181025142407 appear error---'result'
+time:20181025142408 appear error---'result'
+time:20181025142408 appear error---'result'
+time:20181025142410 appear error---'result'
+time:20181025142410 appear error---'result'
+time:20181025142410 appear error---'result'
+time:20181025142410 appear error---'result'
+time:20181025142410 appear error---'result'
+time:20181025142410 appear error---'result'
+time:20181025142410 appear error---'result'
+time:20181025142410 appear error---'result'
+time:20181025142411 appear error---'result'
+time:20181025142412 appear error---'result'
+time:20181025142415 appear error---'result'
+time:20181025142415 appear error---'result'
+time:20181025142415 appear error---'result'
+time:20181025142415 appear error---'result'
+time:20181025142415 appear error---'result'
+time:20181025142415 appear error---'result'
+time:20181025142415 appear error---'result'
+time:20181025142415 appear error---'result'
+time:20181025142415 appear error---'result'
+time:20181025142415 appear error---'result'
+time:20181025142418 appear error---'result'
+time:20181025142418 appear error---'result'
+time:20181025142418 appear error---'result'
+time:20181025142418 appear error---'result'
+time:20181025142418 appear error---'result'
+time:20181025142418 appear error---'result'
+time:20181025142418 appear error---'result'
+time:20181025142418 appear error---'result'
+time:20181025142418 appear error---'result'
+time:20181025142419 appear error---'result'
+time:20181025142422 appear error---'result'
+time:20181025142422 appear error---'result'
+time:20181025142422 appear error---'result'
+time:20181025142422 appear error---'result'
+time:20181025142422 appear error---'result'
+time:20181025142422 appear error---'result'
+time:20181025142422 appear error---'result'
+time:20181025142422 appear error---'result'
+time:20181025142423 appear error---'result'
+time:20181025142423 appear error---'result'
+time:20181025142425 appear error---'result'
+time:20181025142425 appear error---'result'
+time:20181025142425 appear error---'result'
+time:20181025142425 appear error---'result'
+time:20181025142425 appear error---'result'
+time:20181025142425 appear error---'result'
+time:20181025142425 appear error---'result'
+time:20181025142426 appear error---'result'
+time:20181025142426 appear error---'result'
+time:20181025142426 appear error---'result'
+time:20181025142429 appear error---'result'
+time:20181025142429 appear error---'result'
+time:20181025142429 appear error---'result'
+time:20181025142429 appear error---'result'
+time:20181025142430 appear error---'result'
+time:20181025142430 appear error---'result'
+time:20181025142430 appear error---'result'
+time:20181025142430 appear error---'result'
+time:20181025142430 appear error---'result'
+time:20181025142430 appear error---'result'
+time:20181025142432 appear error---'result'
+time:20181025142432 appear error---'result'
+time:20181025142432 appear error---'result'
+time:20181025142433 appear error---'result'
+time:20181025142433 appear error---'result'
+time:20181025142433 appear error---'result'
+time:20181025142433 appear error---'result'
+time:20181025142433 appear error---'result'
+time:20181025142433 appear error---'result'
+time:20181025142434 appear error---'result'
+time:20181025142437 appear error---'result'
+time:20181025142437 appear error---'result'
+time:20181025142437 appear error---'result'
+time:20181025142437 appear error---'result'
+time:20181025142437 appear error---'result'
+time:20181025142437 appear error---'result'
+time:20181025142437 appear error---'result'
+time:20181025142437 appear error---'result'
+time:20181025142437 appear error---'result'
+time:20181025142438 appear error---'result'
+time:20181025142440 appear error---'result'
+time:20181025142440 appear error---'result'
+time:20181025142440 appear error---'result'
+time:20181025142440 appear error---'result'
+time:20181025142440 appear error---'result'
+time:20181025142440 appear error---'result'
+time:20181025142440 appear error---'result'
+time:20181025142441 appear error---'result'
+time:20181025142441 appear error---'result'
+time:20181025142442 appear error---'result'
+time:20181025142444 appear error---'result'
+time:20181025142444 appear error---'result'
+time:20181025142444 appear error---'result'
+time:20181025142444 appear error---'result'
+time:20181025142444 appear error---'result'
+time:20181025142444 appear error---'result'
+time:20181025142444 appear error---'result'
+time:20181025142445 appear error---'result'
+time:20181025142445 appear error---'result'
+time:20181025142445 appear error---'result'
+time:20181025142447 appear error---'result'
+time:20181025142447 appear error---'result'
+time:20181025142447 appear error---'result'
+time:20181025142447 appear error---'result'
+time:20181025142448 appear error---'result'
+time:20181025142448 appear error---'result'
+time:20181025142448 appear error---'result'
+time:20181025142448 appear error---'result'
+time:20181025142448 appear error---'result'
+time:20181025142449 appear error---'result'
+time:20181025142452 appear error---'result'
+time:20181025142452 appear error---'result'
+time:20181025142452 appear error---'result'
+time:20181025142452 appear error---'result'
+time:20181025142452 appear error---'result'
+time:20181025142452 appear error---'result'
+time:20181025142452 appear error---'result'
+time:20181025142452 appear error---'result'
+time:20181025142452 appear error---'result'
+time:20181025142453 appear error---'result'
+time:20181025142454 appear error---'result'
+time:20181025142455 appear error---'result'
+time:20181025142455 appear error---'result'
+time:20181025142455 appear error---'result'
+time:20181025142455 appear error---'result'
+time:20181025142455 appear error---'result'
+time:20181025142455 appear error---'result'
+time:20181025142456 appear error---'result'
+time:20181025142456 appear error---'result'
+time:20181025142456 appear error---'result'
+time:20181025142459 appear error---'result'
+time:20181025142459 appear error---'result'
+time:20181025142459 appear error---'result'
+time:20181025142459 appear error---'result'
+time:20181025142459 appear error---'result'
+time:20181025142459 appear error---'result'
+time:20181025142459 appear error---'result'
+time:20181025142459 appear error---'result'
+time:20181025142500 appear error---'result'
+time:20181025142500 appear error---'result'
+time:20181025142502 appear error---'result'
+time:20181025142502 appear error---'result'
+time:20181025142502 appear error---'result'
+time:20181025142502 appear error---'result'
+time:20181025142502 appear error---'result'
+time:20181025142502 appear error---'result'
+time:20181025142503 appear error---'result'
+time:20181025142503 appear error---'result'
+time:20181025142503 appear error---'result'
+time:20181025142504 appear error---'result'
+time:20181025142506 appear error---'result'
+time:20181025142506 appear error---'result'
+time:20181025142507 appear error---'result'
+time:20181025142507 appear error---'result'
+time:20181025142507 appear error---'result'
+time:20181025142507 appear error---'result'
+time:20181025142507 appear error---'result'
+time:20181025142507 appear error---'result'
+time:20181025142507 appear error---'result'
+time:20181025142509 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051A6BE0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142511 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039E3860>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142511 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039902B0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142512 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000056CE710>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142512 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039905F8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142512 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000507D6D8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142512 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000056C1278>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142512 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003AFB400>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142512 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005706C18>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142512 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051CF2E8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142514 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005197710>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142518 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003990128>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142518 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039E3860>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142518 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051BE320>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142518 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005465048>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142518 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005E2BAC8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142518 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051EC048>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142518 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051EC4E0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142518 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000004F893C8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142519 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000399FE10>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142520 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051BEE10>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142523 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005E21A20>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142523 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000054655C0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142523 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051BE860>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142523 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005E216A0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142523 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039E3208>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142523 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039E3A20>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142524 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000056C1DD8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142524 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000057060B8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142524 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051AACF8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142525 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A878D0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142529 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051B4940>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142529 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A874A8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142529 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005197908>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142530 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000507D908>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142530 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039E32E8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142530 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000056CEA58>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142530 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A06D68>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142530 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051BE828>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142530 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005465080>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142532 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005E218D0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142534 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039DAE80>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142534 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039C4BA8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142534 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000004FDDB70>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142535 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051C1780>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142535 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005DB25F8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142535 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003ABC5F8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142535 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005E3AA90>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142535 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051F3588>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142535 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000050700F0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142537 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051B76A0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142540 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005096D68>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142541 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051B4F28>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142541 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051D5080>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142541 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051C8160>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142541 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039CA080>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142542 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003B03E80>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142542 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051DF978>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142542 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005090DA0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142542 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003AEF438>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142543 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051DFDA0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142545 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000056CEF28>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142546 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051BEB38>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142546 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005DAAE80>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142546 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A1ED68>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142546 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003AFB908>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142546 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051B4D68>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142547 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005465860>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142547 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005465EF0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142547 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005429B38>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142549 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051F3518>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142553 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000519E588>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142553 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000519E908>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142553 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051BE8D0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142553 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051C89B0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142553 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000056CE198>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142553 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003990F28>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142553 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005070CF8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142553 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051D5978>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142553 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A06828>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142554 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051A67F0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142557 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000056D20F0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142557 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051A7CF8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142557 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000056A1240>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142558 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000507D978>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142558 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003B21780>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142558 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051A7E48>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142558 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003B06C88>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142558 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051AA320>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142558 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000054295F8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142600 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051B4B38>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142605 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039CACC0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142605 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000519E710>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142605 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000519E908>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142605 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000509DF98>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142605 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000056CE940>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142605 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039906A0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142605 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051C1A58>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142605 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051BE048>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142605 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005031CF8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142606 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005E2B668>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142610 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051A7320>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142610 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039EA358>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142610 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005714438>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142610 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005714CF8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142610 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000571BFD0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142610 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000056F0C18>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142610 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005705320>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142610 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000056F0630>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142610 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003AA3A90>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142612 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005096198>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142616 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003AB75F8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142616 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003AB7FD0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142616 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005D9A630>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142616 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005DC1B00>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142617 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005D91438>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142617 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005DB18D0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142617 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005D91F28>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142617 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005DA8400>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142617 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005DA8EF0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142618 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005479208>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142621 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005191550>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142621 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005479AC8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142621 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005070E80>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142621 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A1ECF8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142621 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039F4048>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142621 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000056C6D68>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142622 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000056CE0F0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142622 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051BE2B0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142622 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003990CF8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142623 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039DFB70>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142628 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039C4CC0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142628 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039E9240>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142628 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A8B9E8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142628 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005450048>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142628 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003AB3A58>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142628 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000506AA20>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142628 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051A7908>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142628 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003AB7400>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142628 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003AB7E48>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142629 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005DA8128>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142632 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005DE3BE0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142633 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005E0C4A8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142633 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A790B8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142633 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000054872B0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142633 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003B337B8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142633 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005DB1B00>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142633 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000054368D0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142633 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005436CC0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142633 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005DB1748>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142635 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005705E80>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142639 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039E9588>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142639 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000050617F0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142639 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000054505C0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142639 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005073470>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142639 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005755A20>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142640 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000057550F0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142640 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051AA2B0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142640 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005096400>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142640 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000057146A0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142641 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005DC12B0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142644 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005487240>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142644 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005E3ACF8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142644 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039F4588>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142645 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039CAF98>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142645 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000519D2B0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142645 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005E3A5C0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142645 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005487470>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142645 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039F4AC8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142645 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000519E208>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142646 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000050317F0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142651 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000004F89AC8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142651 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005DDA978>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142651 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005DAA4A8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142651 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005714860>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142651 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005195780>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142651 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000519DE10>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142651 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051ECEF0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142651 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051D1D68>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142652 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000509D3C8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142653 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005E21898>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142657 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005DB1710>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142657 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039F45C0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142657 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005E3A828>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142701 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000039F42B0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142701 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051A6390>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142701 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000507D0B8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142701 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000544D5C0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142701 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005E3A588>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142702 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000519E4A8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142702 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051EC5F8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142703 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000054509B0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142704 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000050706D8>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142704 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000004F89BE0>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142704 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005DC1B70>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142704 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005E21438>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142704 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051AAD30>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142704 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005096198>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142705 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000056C1400>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142705 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000399F908>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142705 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A99780>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142708 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051C1898>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142709 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005450080>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142709 appear error---HTTPConnectionPool(host='192.168.0.234', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000051AA588>: Failed to establish a new connection: [Errno 10061] [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+time:20181025142713 appear error---'result'
+time:20181025142713 appear error---'result'
+time:20181025142713 appear error---'result'
+time:20181025142713 appear error---'result'
+time:20181025142713 appear error---'result'
+time:20181025142713 appear error---'result'
+time:20181025142713 appear error---'result'
+time:20181025142714 appear error---'result'
+time:20181025142714 appear error---'result'
+time:20181025142714 appear error---'result'
+time:20181025142714 appear error---'result'
+time:20181025142714 appear error---'result'
+time:20181025142714 appear error---'result'
+time:20181025142714 appear error---'result'
+time:20181025142714 appear error---'result'
+time:20181025142714 appear error---'result'
+time:20181025142715 appear error---'result'
+time:20181025142717 appear error---'result'
+time:20181025142717 appear error---'result'
+time:20181025142717 appear error---'result'
+time:20181025142723 appear error---'result'
+time:20181025142723 appear error---'result'
+time:20181025142723 appear error---'result'
+time:20181025142723 appear error---'result'
+time:20181025142723 appear error---'result'
+time:20181025142723 appear error---'result'
+time:20181025142723 appear error---'result'
+time:20181025142723 appear error---'result'
+time:20181025142723 appear error---'result'
+time:20181025142723 appear error---'result'
+time:20181025142723 appear error---'result'
+time:20181025142723 appear error---'result'
+time:20181025142723 appear error---'result'
+time:20181025142723 appear error---'result'
+time:20181025142723 appear error---'result'
+time:20181025142723 appear error---'result'
+time:20181025142723 appear error---'result'
+time:20181025142724 appear error---'result'
+time:20181025142724 appear error---'result'
+time:20181025142724 appear error---'result'
+time:20181025142730 appear error---'result'
+time:20181025142730 appear error---'result'
+time:20181025142730 appear error---'result'
+time:20181025142731 appear error---'result'
+time:20181025142731 appear error---'result'
+time:20181025142731 appear error---'result'
+time:20181025142731 appear error---'result'
+time:20181025142731 appear error---'result'
+time:20181025142731 appear error---'result'
+time:20181025142731 appear error---'result'
+time:20181025142731 appear error---'result'
+time:20181025142731 appear error---'result'
+time:20181025142731 appear error---'result'
+time:20181025142731 appear error---'result'
+time:20181025142731 appear error---'result'
+time:20181025142731 appear error---'result'
+time:20181025142731 appear error---'result'
+time:20181025142732 appear error---'result'
+time:20181025142732 appear error---'result'
+time:20181025142732 appear error---'result'
+time:20181025142738 appear error---'result'
+time:20181025142738 appear error---'result'
+time:20181025142738 appear error---'result'
+time:20181025142738 appear error---'result'
+time:20181025142738 appear error---'result'
+time:20181025142738 appear error---'result'
+time:20181025142738 appear error---'result'
+time:20181025142738 appear error---'result'
+time:20181025142738 appear error---'result'
+time:20181025142738 appear error---'result'
+time:20181025142738 appear error---'result'
+time:20181025142738 appear error---'result'
+time:20181025142738 appear error---'result'
+time:20181025142738 appear error---'result'
+time:20181025142738 appear error---'result'
+time:20181025142738 appear error---'result'
+time:20181025142739 appear error---'result'
+time:20181025142739 appear error---'result'
+time:20181025142739 appear error---'result'
+time:20181025142739 appear error---'result'

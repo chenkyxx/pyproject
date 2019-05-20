@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Message xmlns="http://schemas.datacontract.org/2004/07/Xasd.FASC.SECM.Entity">
+  <SysID>HET01</SysID>   
+  <searchID />
+  <InfoType>ajxxb</InfoType>
+  <Records>
+    <Record>
+      <Status>Add</Status>            
+      <ajxxb_id>20d4841cd85f11e894a4005056c00008</ajxxb_id>  
+      <bag_open>0</bag_open>              
+      <lk_id>1d27e918d85f11e89d67005056c00008</lk_id>        
+      <safe_flag>1</safe_flag>      
+      <safe_no>10</safe_no>        
+      <safe_oper>PA0104</safe_oper>  
+      <safe_out>0</safe_out>         
+      <safe_outno />      
+      <safe_outtime />  
+      <safe_time>20181025220611</safe_time>   
+    </Record>
+  </Records>
+</Message>

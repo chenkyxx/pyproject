@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/interfacetest - 1/.idea/interfacetest.iml" filepath="$USER_HOME$/Desktop/interfacetest - 1/.idea/interfacetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/pyproject.iml" filepath="$PROJECT_DIR$/../.idea/pyproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python27PJ/.idea/python27PJ.iml" filepath="$PROJECT_DIR$/../python27PJ/.idea/python27PJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/webtest.iml" filepath="$PROJECT_DIR$/.idea/webtest.iml" />
+    </modules>
+  </component>
+</project>

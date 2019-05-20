@@ -1,0 +1,26 @@
+time:20181020020527 appear error---
+time:20181022092046 appear error---'result'
+time:20181022092054 appear error---'result'
+time:20181022092102 appear error---'result'
+time:20181022092106 appear error---
+time:20181022092110 appear error---
+time:20181022092114 appear error---
+time:20181022092117 appear error---
+time:20181022092121 appear error---
+time:20181022092125 appear error---
+time:20181022092207 appear error---
+time:20181022092305 appear error---
+time:20181029114529 appear error---'result'
+time:20181029114605 appear error---'result'
+time:20181031101803 appear error---'result'
+time:20181031101908 appear error---'result'
+time:20181031104451 appear error---
+time:20181031104627 appear error---
+time:20181031104815 appear error---
+time:20181031154921 appear error---HTTPConnectionPool(host='192.168.10.188', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001783BFE8D30>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',))
+time:20181031155007 appear error---HTTPConnectionPool(host='192.168.10.188', port=9090): Max retries exceeded with url: /security-server/api/v1/face/security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000229D3E38D30>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',))
+time:20181031161534 appear error---
+time:20181031171949 appear error---
+time:20181031171949 appear error---
+time:20181031172524 appear error---
+time:20181031172745 appear error---

@@ -1,0 +1,6 @@
+2019-02-15 22:58:55,489 - Administrator - INFO -F:\pyproject\webstudy\test\Log.py - 正在开始定位：定位方式为<id>====value为:<kw>
+2019-02-15 22:58:55,680 - Administrator - INFO -F:\pyproject\webstudy\test\Log.py - 发送文本-->qq邮箱
+2019-02-15 22:58:55,992 - Administrator - INFO -F:\pyproject\webstudy\test\Log.py - 正在开始定位：定位方式为<id>====value为:<su>
+2019-02-15 22:58:56,261 - Administrator - INFO -F:\pyproject\webstudy\test\Log.py - 进行点击事件
+2019-02-15 22:58:56,656 - Administrator - INFO -F:\pyproject\webstudy\test\Log.py - 正在开始定位：定位方式为<css selector>====value为:<div[id="1"]>h3>a[target="_blank"]>
+2019-02-15 22:58:56,962 - Administrator - INFO -F:\pyproject\webstudy\test\Log.py - 进行点击事件

@@ -1,0 +1,1 @@
+time:20181031181330 appear error---HTTPConnectionPool(host='192.168.10.188', port=9090): Max retries exceeded with url: /presecurity-server/api/v1/face/pre-security/check (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000233DE9426D8>: Failed to establish a new connection: [WinError 10053] 你的主机中的软件中止了一个已建立的连接。',))
