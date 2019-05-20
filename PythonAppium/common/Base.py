@@ -1,5 +1,4 @@
 # coding:utf-8
-import time
 from appium import webdriver
 from selenium.webdriver.support.wait import WebDriverWait
 import re
