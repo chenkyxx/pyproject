@@ -1,5 +1,9 @@
 # coding:utf-8
+import base64
+import binascii
 import pymysql as ps
+from PIL import Image
+import numpy as np
 
 
 class DataBase(object):
@@ -9,52 +13,64 @@ class DataBase(object):
         self.user = user
         self.password = password
         self.database = database
+        self.connect = ps.connect(host=self.host,
+                                  port=self.port,
+                                  user=self.user,
+                                  password=self.password,
+                                  database=self.database,
+                                  charset='utf8',
+                                  use_unicode=True)
+        self.cursor = self.connect.cursor()
 
-    def open_data_base(self):
-        """打开数据库的连接"""
-        self.conn = ps.connect(host=self.host,
-                               port=self.port,
-                               user=self.user,
-                               password=self.password,
-                               database=self.database,
-                             )
-        self.curs = self.conn.cursor()
+    def get_cursor(self):
+        return self.cursor
+
+    def get_connect(self):
+        return self.connect
 
     def close_database(self):
         """关闭数据库"""
-        self.curs.close()
-        self.conn.close()
+        self.cursor.close()
+        self.connect.close()
 
     def cud(self, sql):
-        self.open_data_base()
         try:
-            self.curs.execute(sql)
-            self.conn.commit()
+            self.cursor.execute(sql)
+            self.connect.commit()
             print("ok")
         except Exception as A:
             print('cud出现错误'+str(A))
         self.close_database()
 
     def find_all(self, sql):
-        self.open_data_base()
         try:
-            self.curs.execute(sql)
-            data = self.curs.fetchall()
+            self.cursor.execute(sql)
+            data = self.cursor.fetchall()
+            self.close_database()
             return data
-        except:
-            print("错误")
+        except Exception as e:
+            print("错误"+str(e))
 
 if __name__ == '__main__':
-    shujuku = DataBase("192.168.0.231", 3306, "root", "123456", "faceguard")
-    shujuku.open_data_base()
-    # a = shujuku.find_all("select * from base_dictory_value;")
-    # # shujuku.cud("insert into base_dictory_value VALUES ('14','9','2018-09-19 15:10:56','2018-09-19 15:10:59','android','1');")
-    # b = shujuku.find_all("select * from base_dictory_value;")
-    # for i in b:
-    #     print(i)
-    # print(b.__len__())
-    #
-    # shujuku.close_database()
-    sql1 = "select * FROM face_library WHERE library_code='code00';"
-    data = shujuku.find_all(sql1)
-    print(type(data[0][0]))
+        shujuku = DataBase("192.168.1.101", 3306, "root", "123456", "test")
+        fp = open("C:/Users/Administrator/Desktop/1.jpg", "rb")
+        img = fp.read()
+        sree = base64.b64encode(img)
+        print(sree)
+        aa = base64.b64decode(sree)
+        print(aa)
+        print(img)
+        fp.close()
+        sql = "INSERT INTO `test`.`test` (photo) VALUES (%s)" % img
+        args = [1, img]
+        print(sql)
+        c = shujuku.get_cursor()
+        co = shujuku.get_connect()
+        c.execute(sql)
+
+        co.commit()
+
+        # 关闭游标
+        c.close()
+        # 关闭连接
+        co.close()
