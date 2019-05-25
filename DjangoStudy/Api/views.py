@@ -1,8 +1,11 @@
+import base64
+
 from django.shortcuts import render
 from django.http import HttpResponse
 import json
 import uuid
 # Create your views here.
+from Api.models import IMG, Test
 from UtilsMethod.UtilsMethod import UtilsMethod
 
 
@@ -39,3 +42,35 @@ def get_process_info(request):
             return HttpResponse("请求参数不能为空")
     else:
         return HttpResponse("request method error!")
+
+
+def post_sql(request):
+    try:
+        print("***********************************")
+        if request.method == "POST":
+            json_str = json.loads(request.body.decode())
+            img = json_str.get("img")
+            data = open(img, "rb").read()
+            name = json_str.get("name")
+            instance = IMG(img=data, name=name)
+            instance.save()
+            return HttpResponse("success!")
+        else:
+            return HttpResponse("request method error")
+    except Exception as e:
+        return HttpResponse(str(e))
+
+
+def post_other_sql(request):
+    try:
+        if request.method == "POST":
+            json_str = json.loads(request.body.decode())
+            photo = json_str.get("photo")
+            data = open(photo, "rb").read()
+            instance = Test(photo=data)
+            instance.save()
+            return HttpResponse("success!")
+        else:
+            return HttpResponse("request method error!")
+    except Exception as e:
+        return HttpResponse(str(e))

@@ -16,10 +16,13 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 
+
 from Api import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path("test", views.get_aa),
-    path("process", views.get_process_info)
+    path("process", views.get_process_info),
+    path("insert_sql", views.post_sql),
+    path("insert_other", views.post_other_sql)
 ]
