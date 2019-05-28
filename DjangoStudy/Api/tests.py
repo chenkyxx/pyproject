@@ -46,7 +46,6 @@ class Img():
         self.img = img
 
 
-
 def test_1():
     url = "http://127.0.0.1:8000/process"
     body = {"pid": "38288"}

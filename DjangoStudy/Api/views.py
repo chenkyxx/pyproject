@@ -48,10 +48,10 @@ def post_sql(request):
     try:
         print("***********************************")
         if request.method == "POST":
-            json_str = json.loads(request.body.decode())
-            img = json_str.get("img")
+            json_dict = json.loads(request.body.decode())
+            img = json_dict.get("img")
             data = open(img, "rb").read()
-            name = json_str.get("name")
+            name = json_dict.get("name")
             instance = IMG(img=data, name=name)
             instance.save()
             return HttpResponse("success!")
